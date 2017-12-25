@@ -1,1 +1,1 @@
-Implementations of various neural networks for classification and prediction
+Implementations of various neural networks & machine learning models for classification and prediction
